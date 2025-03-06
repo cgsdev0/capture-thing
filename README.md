@@ -7,3 +7,5 @@ you don't want to use this garbage go away it's mostly just for me
 you can steal from it though if you want i guess i don't care
 
 the original code is MIT license, and so is this
+
+spout (also included in this repo) is under BSD 2-Clause license
